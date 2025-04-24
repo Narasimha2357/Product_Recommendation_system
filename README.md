@@ -1,0 +1,2 @@
+# Product_Recommendation_system
+ E-commerce companies use recommendation systems to provide suggestions to the customers. They use item-item collaborative filtering, which scales to massive datasets and produces high quality recommendation systems in the real time. This system is a kind of an information filtering system which seeks to predict the &quot;rating&quot; or preferences which user is interested in.
